@@ -28,9 +28,8 @@ python3 meu_script.py
 ## 📂 Estruturas de pastas
 
 ```
-├── src
-│   └── app.js
-├── .gitignore
+├── nivelHeroi.js
+├── LICENSE
 └── README.md
 ```
 
